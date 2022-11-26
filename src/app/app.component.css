@@ -1,0 +1,39 @@
+* {
+    font-style: bold;
+}
+.main{
+    margin-left: 40%;
+}
+.numClass {
+    background-color: #505050;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: larger;
+}
+.numClass:hover {
+    background-color: #D4D4D2;
+}
+.oprClass {
+background-color: #FF9500 !important;
+}
+.oprClass:hover {
+    background-color: #D4D4D2 !important;
+    }
+.flex-container {
+    display: flex;
+}
+.zeroClass {
+    width: 170px !important;
+  }
+  .display{
+    height: 50px;
+    font-size: larger;
+    font-weight: bolder;
+  }
